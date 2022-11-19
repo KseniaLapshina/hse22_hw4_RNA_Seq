@@ -1,6 +1,7 @@
 # hse22_hw4
 
 ## Выравняли RNA-seq чтения на геном мыши.
+https://colab.research.google.com/drive/1qatthb6D-qLny6zjap_GZInmqvrexE1W?usp=sharing
 
 ### Проверили качество RNA-seq чтения с помощью программы fastQC.
 ![image](https://user-images.githubusercontent.com/114621114/202844716-4796e16f-65f5-4a22-94b5-2363d0cfa1d7.png)
