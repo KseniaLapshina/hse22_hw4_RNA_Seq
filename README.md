@@ -2,7 +2,7 @@
 
 ## Выравняли RNA-seq чтения на геном мыши.
 
-Проверили качество RNA-seq чтения с помощью программы fastQC.
+### Проверили качество RNA-seq чтения с помощью программы fastQC.
 ![image](https://user-images.githubusercontent.com/114621114/202844716-4796e16f-65f5-4a22-94b5-2363d0cfa1d7.png)
 ![image](https://user-images.githubusercontent.com/114621114/202844762-9a3a04fd-5806-49a6-bb7d-99b1ce188554.png)
 ![image](https://user-images.githubusercontent.com/114621114/202844775-35572231-f64d-498d-8089-079638754fe5.png)
@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/114621114/202845182-45c461f2-6761-4cdd-9066-3c5695ee9c9d.png)
 ![image](https://user-images.githubusercontent.com/114621114/202845205-82e6bf73-a2d3-4ff2-9889-54d9caa6f125.png)
 
-Откартировали RNA-seq чтения на геном мыши с помощью программы HISAT2.
+### Откартировали RNA-seq чтения на геном мыши с помощью программы HISAT2.
 ![image](https://user-images.githubusercontent.com/114621114/202845281-5d88b5fa-9823-4f62-8238-d87af70d6c0f.png)
 ![image](https://user-images.githubusercontent.com/114621114/202845314-f6d7e9a2-b41e-4bc7-8205-32f104ab53d9.png)
 ![image](https://user-images.githubusercontent.com/114621114/202845332-15862c59-5f89-40ac-a14e-711b5068b718.png)
@@ -24,8 +24,14 @@
 ![image](https://user-images.githubusercontent.com/114621114/202845400-3835ab31-bf7c-474e-b6aa-4a6e03ad5883.png)
 ![image](https://user-images.githubusercontent.com/114621114/202845416-bf29e14a-1ad5-47da-969d-b5131ad98a84.png)
 
-Отобрали уникально картированные чтения и посчитали их количество.
+### Отобрали уникально картированные чтения и посчитали их количество.
+![image](https://user-images.githubusercontent.com/114621114/202845499-e1fe36a0-e305-42f8-bbfa-bdf12660bd1f.png)
+![image](https://user-images.githubusercontent.com/114621114/202845522-df06dd51-4036-4596-b82c-1f65fe251eb7.png)
+![image](https://user-images.githubusercontent.com/114621114/202845542-6d0573da-845b-46a7-89f7-f04ce2176d67.png)
+![image](https://user-images.githubusercontent.com/114621114/202845558-1792df36-92eb-495e-995e-34e8a7472795.png)
+![image](https://user-images.githubusercontent.com/114621114/202845571-ca2e2999-b35a-4b76-9fb8-5e621419bec7.png)
+![image](https://user-images.githubusercontent.com/114621114/202845578-3ce2c9e0-a7fa-4b4f-98de-062e02f0dfa1.png)
 
-С помощью программы HTSeq подсчитываем количество чтений, попавших на каждый ген. Подсчитываем общее число чтений, соответствующих хотя бы одному гену.
+### С помощью программы HTSeq подсчитываем количество чтений, попавших на каждый ген. Подсчитываем общее число чтений, соответствующих хотя бы одному гену.
 
-Объединям все файлы .counts по генам в один общий файл ALL.counts.
+### Объединям все файлы .counts по генам в один общий файл ALL.counts.
