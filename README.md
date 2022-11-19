@@ -17,6 +17,12 @@
 ![image](https://user-images.githubusercontent.com/114621114/202845205-82e6bf73-a2d3-4ff2-9889-54d9caa6f125.png)
 
 Откартировали RNA-seq чтения на геном мыши с помощью программы HISAT2.
+![image](https://user-images.githubusercontent.com/114621114/202845281-5d88b5fa-9823-4f62-8238-d87af70d6c0f.png)
+![image](https://user-images.githubusercontent.com/114621114/202845314-f6d7e9a2-b41e-4bc7-8205-32f104ab53d9.png)
+![image](https://user-images.githubusercontent.com/114621114/202845332-15862c59-5f89-40ac-a14e-711b5068b718.png)
+![image](https://user-images.githubusercontent.com/114621114/202845382-8525edbc-5b7b-4bfb-abe8-7e722534c53f.png)
+![image](https://user-images.githubusercontent.com/114621114/202845400-3835ab31-bf7c-474e-b6aa-4a6e03ad5883.png)
+![image](https://user-images.githubusercontent.com/114621114/202845416-bf29e14a-1ad5-47da-969d-b5131ad98a84.png)
 
 Отобрали уникально картированные чтения и посчитали их количество.
 
