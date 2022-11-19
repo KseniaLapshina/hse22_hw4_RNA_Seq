@@ -33,5 +33,19 @@
 ![image](https://user-images.githubusercontent.com/114621114/202845578-3ce2c9e0-a7fa-4b4f-98de-062e02f0dfa1.png)
 
 ### С помощью программы HTSeq подсчитываем количество чтений, попавших на каждый ген. Подсчитываем общее число чтений, соответствующих хотя бы одному гену.
+![image](https://user-images.githubusercontent.com/114621114/202845665-373f4148-21b0-4145-bbe1-11539c1519f9.png)
+![image](https://user-images.githubusercontent.com/114621114/202845690-89b76fbd-1170-4276-ab36-4c9762cc133a.png)
+![image](https://user-images.githubusercontent.com/114621114/202845713-9a1e5a6b-7fd9-4d28-86e8-f7dd203fee2c.png)
+![image](https://user-images.githubusercontent.com/114621114/202845738-4bc92fd5-6b9e-4006-88a9-9d78d08ab1c2.png)
+![image](https://user-images.githubusercontent.com/114621114/202845759-c529f9d5-e6f9-4f5a-973b-d72310f87025.png)
+![image](https://user-images.githubusercontent.com/114621114/202845770-2c0686bf-1e24-48aa-8dd4-179ce219b44a.png)
+
+Образец | Кол-во уникально-картированных чтений | Кол-во чтений, соответствующих участкам генома, где не аннотировано ни одного экзона | Кол-во чтений, которые могут принадлежать разным генам | Кол-во чтений, соответствующих хотя бы одному гену
+SRR3414629 | 18375888 |  |  |
+SRR3414630 | 13186139 |  |  |
+SRR3414631 | 20928945 |  |  |
+SRR3414635 | 18428317 |  |  |
+SRR3414636 | 17825380 |  |  |
+SRR3414637 | 17844858 |  |  |
 
 ### Объединям все файлы .counts по генам в один общий файл ALL.counts.
