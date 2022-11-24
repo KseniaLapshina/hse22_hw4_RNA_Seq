@@ -51,3 +51,8 @@ https://colab.research.google.com/drive/1qatthb6D-qLny6zjap_GZInmqvrexE1W?usp=sh
 | SRR3414637 | c3 | 20385570 | 19847291 (97.36%) | 17844858 (87.54%) | 15736978 |
 
 ### Объединям все файлы .counts по генам в один общий файл ALL.counts.
+
+## DESeq2
+https://colab.research.google.com/drive/1-sOtJ74RPm2mNOd9q1CCnhZPnmpSPLHV?usp=sharing
+
+Результат выполнения кода в файле differentially_expressed_genes.txt.
