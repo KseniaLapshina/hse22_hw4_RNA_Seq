@@ -55,4 +55,19 @@ https://colab.research.google.com/drive/1qatthb6D-qLny6zjap_GZInmqvrexE1W?usp=sh
 ## DESeq2
 https://colab.research.google.com/drive/1-sOtJ74RPm2mNOd9q1CCnhZPnmpSPLHV?usp=sharing
 
-Результат выполнения кода в файле differentially_expressed_genes.txt.
+### Результат выполнения кода в файле differentially_expressed_genes.txt.
+
+### MA-plot
+![image](https://user-images.githubusercontent.com/114621114/203855481-0ec48b0d-4f73-44a1-bb10-d1ad7ead9527.png)
+
+### Тепловая карта
+![image](https://user-images.githubusercontent.com/114621114/203855674-014ff58d-2396-43e7-8390-a4f242bb81c4.png)
+![image](https://user-images.githubusercontent.com/114621114/203857401-4a7ab8f6-b1a8-4379-a464-55b84c062ad5.png)
+
+### Гены, которые наиболее значимо поменяли свою экспрессию
+![image](https://user-images.githubusercontent.com/114621114/203857520-754be666-bfc4-4f33-b2b6-d202f6242b86.png)
+![image](https://user-images.githubusercontent.com/114621114/203857564-1e828fae-d6c8-4b0b-8e39-7d75486ecae8.png)
+![image](https://user-images.githubusercontent.com/114621114/203857601-50ae6d4c-c6a9-420d-a01e-d538c81536d6.png)
+
+
+
