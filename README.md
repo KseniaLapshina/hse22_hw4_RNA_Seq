@@ -4,6 +4,7 @@
 https://colab.research.google.com/drive/1qatthb6D-qLny6zjap_GZInmqvrexE1W?usp=sharing
 
 ### Проверили качество RNA-seq чтения с помощью программы fastQC.
+Файлы fastQC в папке data.
 ![image](https://user-images.githubusercontent.com/114621114/202844716-4796e16f-65f5-4a22-94b5-2363d0cfa1d7.png)
 ![image](https://user-images.githubusercontent.com/114621114/202844762-9a3a04fd-5806-49a6-bb7d-99b1ce188554.png)
 ![image](https://user-images.githubusercontent.com/114621114/202844775-35572231-f64d-498d-8089-079638754fe5.png)
